@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: Project
   m_RootView: {fileID: 4}
-  m_MinSize: {x: 875, y: 563}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 102, y: 242}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 4663
+  controlID: 73
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -97,7 +97,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 1188.8
-  m_MinSize: {x: 875, y: 563}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -173,7 +173,7 @@ MonoBehaviour:
   m_MinSize: {x: 579, y: 513}
   m_MaxSize: {x: 14002, y: 18063}
   vertical: 0
-  controlID: 70
+  controlID: 162
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 303, y: 242}
   m_MaxSize: {x: 8003, y: 8042}
   vertical: 0
-  controlID: 18
+  controlID: 72
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -488,20 +488,20 @@ MonoBehaviour:
       y: 21
       width: 1043.6
       height: 484.40002
-    m_Scale: {x: 0.2803241, y: 0.2803241}
-    m_Translation: {x: 521.8, y: 242.2}
+    m_Scale: {x: 0.29247686, y: 0.29247686}
+    m_Translation: {x: 521.8, y: 242.20001}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -1861.4167
-      y: -863.9999
-      width: 3722.8335
-      height: 1727.9999
+      x: -1784.0728
+      y: -828.09973
+      width: 3568.1455
+      height: 1656.1995
     m_MinimalGUI: 1
-  m_defaultScale: 0.2803241
+  m_defaultScale: 0.29247686
   m_LastWindowPixelSize: {x: 1304.5, y: 631.75}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
@@ -536,9 +536,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 4c7a0400
+      m_SelectedIDs: 6a7f0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 562ffaff5a2ffaff2055ffff2455ffff00dcffff68e5ffff40e6ffff1ce7ffff68e8ffff6ce8ffff44fbffff783f000062400000
+      m_ExpandedIDs: 44fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -649,7 +649,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.00090949953, y: -0.7078262, z: -0.0012119056, w: 0.7066062}
     speed: 2
-    m_Value: {x: -0.0009093574, y: -0.7077156, z: -0.0012117162, w: 0.7064958}
+    m_Value: {x: 0.0009094996, y: 0.7078262, z: 0.0012119056, w: -0.70660627}
   m_Size:
     m_Target: 7.865654
     speed: 2
@@ -716,22 +716,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Meshes
+    - Assets/Materials/world
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Meshes
+  - Assets/Materials/world
   m_LastFoldersGridSize: 96
   m_LastProjectPath: C:\Users\ashle\Desktop\FIT3040\assessments\git\sol\UNITY\SOL_SA
   m_LockTracker:
     m_IsLocked: 1
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 35.799927}
-    m_SelectedIDs: 8a800000
-    m_LastClickedID: 32906
-    m_ExpandedIDs: 0000000084800000868000008a8000008c8000008e800000c882000000ca9a3b
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 6a7f0000
+    m_LastClickedID: 32618
+    m_ExpandedIDs: 00000000527e0000547e0000567e0000587e0000da7e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -759,7 +759,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000008480000086800000888000008a8000008c8000008e800000
+    m_ExpandedIDs: 00000000527e0000547e0000567e0000587e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -877,7 +877,7 @@ MonoBehaviour:
   m_SequenceHierarchy: {fileID: 0}
   m_HierarchySplitterPerc: 0.2
   m_SequencePath:
-    m_SelectionRoot: -614082
+    m_SelectionRoot: 0
     m_SubElements: []
 --- !u!114 &22
 MonoBehaviour:
