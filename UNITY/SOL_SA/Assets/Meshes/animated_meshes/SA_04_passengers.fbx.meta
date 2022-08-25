@@ -6,7 +6,47 @@ ModelImporter:
   - first:
       74: 1827226128182048838
     second: Take 001
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trainpassenger1_trainpass_MAT
+    second: {fileID: 2100000, guid: bf123cb5d9afcf84a801650fb24b34fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trainpassenger2_trainpass_MAT
+    second: {fileID: 2100000, guid: bf123cb5d9afcf84a801650fb24b34fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trainpassenger3_trainpass_MAT
+    second: {fileID: 2100000, guid: bf123cb5d9afcf84a801650fb24b34fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trainpassenger4_trainpass_MAT
+    second: {fileID: 2100000, guid: bf123cb5d9afcf84a801650fb24b34fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trainpassenger5_trainpass_MAT
+    second: {fileID: 2100000, guid: bf123cb5d9afcf84a801650fb24b34fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trainpassenger6_trainpass_MAT
+    second: {fileID: 2100000, guid: bf123cb5d9afcf84a801650fb24b34fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trainpassenger7_trainpass_MAT
+    second: {fileID: 2100000, guid: bf123cb5d9afcf84a801650fb24b34fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trainpassenger_trainpass_MAT
+    second: {fileID: 2100000, guid: bf123cb5d9afcf84a801650fb24b34fb, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

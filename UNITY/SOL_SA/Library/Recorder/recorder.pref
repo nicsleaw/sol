@@ -36,7 +36,7 @@ MonoBehaviour:
   m_Name: Movie
   m_EditorClassIdentifier: 
   enabled: 1
-  take: 14
+  take: 2
   captureEveryNthFrame: 1
   fileNameGenerator:
     m_Path:
@@ -44,7 +44,7 @@ MonoBehaviour:
       m_Leaf: Recordings
       m_ForceAssetFolder: 0
       m_AbsolutePath: 
-    m_FileName: SA_01_<Take>
+    m_FileName: SB_07_Draft_<Take>
   outputFormat: 0
   videoBitRateMode: 2
   captureAlpha: 0
@@ -62,7 +62,7 @@ MonoBehaviour:
       m_OutputResolution:
         m_CustomWidth: 1024
         m_CustomHeight: 1024
-        imageHeight: 1080
+        imageHeight: 720
         maxSupportedHeight: 2160
         m_AspectRatio:
           m_CustomAspectX: 1
@@ -112,4 +112,4 @@ MonoBehaviour:
       colorSpace: 0
       flipFinalOutput: 0
   m_AudioInputSettings:
-    preserveAudio: 1
+    preserveAudio: 0
