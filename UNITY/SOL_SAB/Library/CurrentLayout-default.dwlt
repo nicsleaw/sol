@@ -19,9 +19,9 @@ MonoBehaviour:
     width: 1920
     height: 1188.8
   m_ShowMode: 4
-  m_Title: Timeline
+  m_Title: Recorder
   m_RootView: {fileID: 8}
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 663}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -75,7 +75,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 342}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 85
+  controlID: 81
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -100,7 +100,7 @@ MonoBehaviour:
   m_MinSize: {x: 964, y: 613}
   m_MaxSize: {x: 14002, y: 18063}
   vertical: 0
-  controlID: 82
+  controlID: 414
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -205,7 +205,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 1188.8
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 663}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -281,7 +281,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 613}
   m_MaxSize: {x: 10001, y: 18063}
   vertical: 1
-  controlID: 83
+  controlID: 79
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -306,7 +306,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 342}
   m_MaxSize: {x: 8003, y: 8042}
   vertical: 0
-  controlID: 84
+  controlID: 80
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -448,7 +448,7 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 61172
+  m_LastSelectedObjectID: 17252
 --- !u!114 &17
 MonoBehaviour:
   m_ObjectHideFlags: 61
@@ -529,11 +529,11 @@ MonoBehaviour:
     editType: 0
     timeReferenceMode: 0
   m_LockTracker:
-    m_IsLocked: 1
+    m_IsLocked: 0
   m_SequenceHierarchy: {fileID: 0}
   m_HierarchySplitterPerc: 0.1776304
   m_SequencePath:
-    m_SelectionRoot: 19736
+    m_SelectionRoot: 26154
     m_SubElements: []
 --- !u!114 &20
 MonoBehaviour:
@@ -573,22 +573,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Meshes/animated_meshes
+    - Assets/Materials/characters
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Meshes/animated_meshes
+  - Assets/Materials/characters
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\ashle\Desktop\FIT3040\assessments\git\sol\UNITY\SOL_SAB
   m_LockTracker:
     m_IsLocked: 1
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: d4f10000
-    m_LastClickedID: 61908
-    m_ExpandedIDs: 000000000ef0000010f0000012f0000014f0000016f0000018f0000000ca9a3b
+    m_SelectedIDs: 44f20000
+    m_LastClickedID: 62020
+    m_ExpandedIDs: 0000000016f0000018f000001af000001cf000001ef0000020f0000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -616,7 +616,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000000ef0000010f0000012f0000014f0000016f0000018f00000
+    m_ExpandedIDs: 0000000016f0000018f000001af000001cf000001ef0000020f00000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -703,7 +703,7 @@ MonoBehaviour:
     m_CachedPref: 329
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
-  m_LastInspectedObjectInstanceID: 33750
+  m_LastInspectedObjectInstanceID: -1
   m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_LockTracker:
@@ -736,10 +736,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 48}
-      m_SelectedIDs: d6830000
-      m_LastClickedID: 0
-      m_ExpandedIDs: 44fbffffb2450000
+      scrollPos: {x: 0, y: 288}
+      m_SelectedIDs: 2a660000
+      m_LastClickedID: 26154
+      m_ExpandedIDs: 44fbffffb2450000667000005e7b0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
