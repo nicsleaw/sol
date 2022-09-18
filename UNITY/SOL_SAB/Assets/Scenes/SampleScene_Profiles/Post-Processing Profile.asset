@@ -61,6 +61,7 @@ MonoBehaviour:
   - {fileID: -5680506721511065622}
   - {fileID: 3150138669182768649}
   - {fileID: 7427288481783381918}
+  - {fileID: 4328093223485256842}
 --- !u!114 &3150138669182768649
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -108,6 +109,34 @@ MonoBehaviour:
   dirtIntensity:
     overrideState: 0
     value: 0
+--- !u!114 &4328093223485256842
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 556797029e73b2347956b6579e77e05b, type: 3}
+  m_Name: DepthOfField
+  m_EditorClassIdentifier: 
+  active: 1
+  enabled:
+    overrideState: 1
+    value: 1
+  focusDistance:
+    overrideState: 1
+    value: 41.1
+  aperture:
+    overrideState: 1
+    value: 0.2
+  focalLength:
+    overrideState: 0
+    value: 50
+  kernelSize:
+    overrideState: 0
+    value: 1
 --- !u!114 &7427288481783381918
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -120,7 +149,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c1cb7e9e120078f43bce4f0b1be547a7, type: 3}
   m_Name: AmbientOcclusion
   m_EditorClassIdentifier: 
-  active: 0
+  active: 1
   enabled:
     overrideState: 1
     value: 1
@@ -228,7 +257,7 @@ MonoBehaviour:
     value: 0
   postExposure:
     overrideState: 1
-    value: 2
+    value: 2.6
   contrast:
     overrideState: 0
     value: 0
