@@ -176,7 +176,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -22.8153, y: -11.75953, z: 0.06608979}
+        value: {x: -11.18631, y: -13.6234, z: -5.491573}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -193,7 +193,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 2.1183872, y: -2.688631, z: -0.7235451}
+        value: {x: 2.396574, y: -2.0842838, z: -1.7177582}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -281,7 +281,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 2.1183872
+        value: 2.396574
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -300,7 +300,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -2.688631
+        value: -2.0842838
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -319,7 +319,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0.7235451
+        value: -1.7177582
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -338,7 +338,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -22.8153
+        value: -11.18631
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -357,7 +357,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -11.75953
+        value: -13.6234
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -376,7 +376,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.06608979
+        value: -5.491573
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -850,7 +850,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 4.783333333333333
+    m_Start: 4.033333333333333
     m_ClipIn: 1.3200000000000007
     m_Asset: {fileID: 4438089324427408293}
     m_Duration: 3.666666666666666
@@ -916,10 +916,10 @@ MonoBehaviour:
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: 0
-    m_PreExtrapolationTime: 4.783333333333333
+    m_PreExtrapolationTime: 4.033333333333333
     m_DisplayName: Take 001
   - m_Version: 1
-    m_Start: 7.433333333333334
+    m_Start: 6.683333333333334
     m_ClipIn: 1.6950000000000027
     m_Asset: {fileID: 4092563081640799944}
     m_Duration: 1.7500000000000009
