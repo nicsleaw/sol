@@ -25,7 +25,44 @@ MonoBehaviour:
   - {fileID: 3569100862890420908, guid: 3e2dccc65e17aa94e854ef5fcfb17b15, type: 2}
   - {fileID: -6669837100050122785, guid: 3e2dccc65e17aa94e854ef5fcfb17b15, type: 2}
   - {fileID: -5491327324933278908, guid: 3e2dccc65e17aa94e854ef5fcfb17b15, type: 2}
+  - {fileID: -3190030240728214441, guid: 3e2dccc65e17aa94e854ef5fcfb17b15, type: 2}
   m_Vals:
+  - collapsed: 0
+    showMarkers: 1
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+    lastInlineCurveDataID: -1
+    inlineCurvesState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString: 
+    inlineCurvesShownAreaInsideMargins:
+      serializedVersion: 2
+      x: 1
+      y: 1
+      width: 1
+      height: 1
+    trackHeightExtension: 0
+    m_MarkerTimeStampsKeys: 
+    m_MarkerTimeStampsValues: 
   - collapsed: 0
     showMarkers: 1
     showInlineCurves: 0
