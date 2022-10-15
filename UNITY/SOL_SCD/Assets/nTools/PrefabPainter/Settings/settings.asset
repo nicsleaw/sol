@@ -281,7 +281,7 @@ MonoBehaviour:
       colorTag: 0
     - name: hardrock2
       settings:
-        brushRadius: 1.2
+        brushRadius: 0.8
         brushSpacing: 1.91
         brushOverlapCheckMode: 0
         brushOverlapDistance: 0.5
@@ -294,13 +294,13 @@ MonoBehaviour:
         orientationMode: 2
         alongBrushStroke: 0
         rotation: {x: 0, y: 0, z: 0}
-        randomizeOrientationX: 27.2
-        randomizeOrientationY: 27.2
-        randomizeOrientationZ: 52.2
+        randomizeOrientationX: 15.7
+        randomizeOrientationY: 15.4
+        randomizeOrientationZ: 18.2
         scaleTransformMode: 0
         scaleMode: 0
-        scaleUniformMin: 800
-        scaleUniformMax: 1000
+        scaleUniformMin: 100
+        scaleUniformMax: 500
         scalePerAxisMin: {x: 1, y: 1, z: 1}
         scalePerAxisMax: {x: 1, y: 1, z: 1}
         pinFixedRotation: 0
