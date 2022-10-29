@@ -80,7 +80,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 3
+    value: 3.3
   threshold:
     overrideState: 1
     value: 1.5
@@ -130,7 +130,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 1
+    value: 0.9
   color:
     overrideState: 0
     value: {r: 0, g: 0, b: 0, a: 1}
@@ -1487,10 +1487,10 @@ MonoBehaviour:
     value: 1
   focusDistance:
     overrideState: 1
-    value: 44.47
+    value: 14.36
   aperture:
     overrideState: 1
-    value: 0.6
+    value: 2.3
   focalLength:
     overrideState: 0
     value: 50
